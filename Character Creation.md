@@ -26,6 +26,6 @@ I'm open to **Dragonborn, Orcs, and Tieflings**, though some adjustments may be 
 
 **Aasimar and Goliaths** are not available for player characters unless you have a strong reason, in which case we can work something out.
 
-##Species Age
+## Species Age
 
 For the most part, all species have the same average lifespan assuming a normal life and natural death.
